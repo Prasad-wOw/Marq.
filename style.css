@@ -13,7 +13,7 @@ body {
   color: white;
   min-height: 100vh;
 
-  background: url(Images/wallpaper3.jpg) no-repeat center center fixed;
+  background: url(Images/waaal.jpg) no-repeat center center fixed;
   background-size: cover;
   overflow-y: hidden; /* controls scrolling a/c to responsiveness */
   transition: background 0.5s ease-in-out;
